@@ -12,3 +12,8 @@ This is the FastAPI backend powering CardCatch's live card price fetching.
 Deployed at: https://cardcatch-ebay-endpointnew.onrender.com
 
 ### Example
+
+## Version Tags
+- `v1.0-stable-core` → First confirmed stable version powering Google Sheets
+
+
